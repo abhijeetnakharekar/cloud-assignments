@@ -12,17 +12,17 @@
 
 
 # commands
-1. $		      means you are not root(admin) user.
-2. sudo su	  use to change user(switch to root user).
-3. ls		      list dir/file.
-4. pwd		    print working dir.
-5. cd		      change dir.
-6. ~		      home dir of current user.
-7. mkdir		  make dir.
-8. vi 		    creates text file.
-9. i		      insert mode.
-10. w		      write in the file.
-11. q		      quit exit from current file.
+1. $-		      means you are not root(admin) user.
+2. sudo su-	  use to change user(switch to root user).
+3. ls-		      list dir/file.
+4. pwd-		    print working dir.
+5. cd-		      change dir.
+6. ~-		      home dir of current user.
+7. mkdir-		  make dir.
+8. vi- 		    opens text editor.
+9. :i-		      insert mode.
+10. :w-		     write in the file.
+11. q-		      quit exit from current file.
 
 
 
