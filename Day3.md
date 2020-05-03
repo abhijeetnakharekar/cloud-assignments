@@ -28,7 +28,7 @@
 
 
 # Path
-**absolute pathnames**			                      
+**Absolute pathnames**			                      
 
 An absolute pathname begins with the root dir and follow the tree branch until the path to the desired dir/file	is completed.
 eg. /user/bin/home/ec-2 user/test
