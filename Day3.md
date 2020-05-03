@@ -39,9 +39,9 @@ is completed.
 
 - Relative pathnames
 
-. means working dir
-.. working dir,parent dir
-start from working dir
+. means working dir.
+.. working dir,parent dir.
+start from working dir.
 
 
 
