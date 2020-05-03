@@ -28,20 +28,16 @@
 
 
 # Path
--	absolute pathnames			                      
+**absolute pathnames**			                      
 
-an absolute pathname begins with  			        
-the root dir and follow the tree branch			    
-until the path to the desired dir/file		    	
-is completed.
+An absolute pathname begins with the root dir and follow the tree branch until the path to the desired dir/file	is completed.
+eg. /user/bin/home/ec-2 user/test
 
-/user/bin/home/ec-2 user/test
+**Relative pathnames**
 
-- Relative pathnames
-
-. means working dir.
-.. working dir,parent dir.
-start from working dir.
+1. (.) means working dir
+2. (..) means working dir,parent dir
+3. Starts from working dir
 
 
 
